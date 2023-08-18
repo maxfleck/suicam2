@@ -5,6 +5,8 @@ Follow-up project of the [$uicideCam](https://derwerderwer.wordpress.com/)... Bu
 
 The project is de facto finished but needs to be documented. The cam is already working :)
 
+The main code of the camera is written around the availability of a USB storage device. Therefore, the code base may be of interest to projects using removable storage devices, even if the data producing part of the project is not a camera.
+
 <img src="pictures/cam_front_0.jpeg" width="50%"/>
 
 - based on the agfamatic 108
